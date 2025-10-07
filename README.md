@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Nate, please take a look at my pinned projects below!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NateSamuel&exclude_repo=datasciencetools,dataScienceEcosystem,stockDataDashboard,eda-dataviz,DataScienceCapstone&size_weight=0.3&count_weight=0.7&hide=ShaderLab,HLSL)
 
 <!--
