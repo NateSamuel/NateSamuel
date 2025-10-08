@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Images/Banner.png" alt="Banner" width="800"/>
+  <img src="./Images/Banner.png" alt="Banner" width="850"/>
 </p>
 
 ### Here are some of the different languages I have experience in:
