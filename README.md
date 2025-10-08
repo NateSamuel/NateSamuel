@@ -1,17 +1,25 @@
 ## Hi there, I'm Nate, a recent degree finisher in Computer Science at University of London!
 
-### Here are my most common languages used on Github:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NateSamuel&exclude_repo=datasciencetools,dataScienceEcosystem,stockDataDashboard,eda-dataviz,DataScienceCapstone&size_weight=0.3&count_weight=0.7&hide=ShaderLab,HLSL)
-
-### Here are the different languages I have experience in:
+### Here are some of the different languages I have experience in:
 Python
+
+Django
+
 JS
+
 C#
+
 React
+
 Unity
+
 C++
+
 MySQL
+
 PostgreSQL
+
+Node.js
 
 
 ### Please take a look at my pinned projects below!
