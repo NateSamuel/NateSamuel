@@ -5,8 +5,8 @@
 ### Here are some of the different languages I have experience in:
 Python, Django, JS, C#, React, Unity, C++, MySQL, PostgreSQL, Node.js
 
-### Please take a look at some of my projects below and let me know via Linkedin if you are interested in collaborating: 
-[in/nate-bentley-6251061a2](https://www.linkedin.com/in/nate-bentley-6251061a2/)
+### Please take a look at some of my projects below and let me know if you are interested in collaborating. 
+LinkedIn: [in/nate-bentley-6251061a2](https://www.linkedin.com/in/nate-bentley-6251061a2/)
 
 <!--
 **NateSamuel/NateSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
