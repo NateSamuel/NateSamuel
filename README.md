@@ -1,4 +1,6 @@
-## Hi there, I'm Nate, a recent degree finisher in Computer Science at University of London.
+<p align="center">
+  <img src="./Images/Banner.png" alt="Banner" width="600"/>
+</p>
 
 ### Here are some of the different languages I have experience in:
 Python, Django, JS, C#, React, Unity, C++, MySQL, PostgreSQL, Node.js
