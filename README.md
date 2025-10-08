@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./Images/Banner.png" alt="Banner" width="850"/>
+  <a href="https://github.com/NateSamuel/Crystalis_Unity_Game">
+    <img src="./Images/Banner.png" alt="Crystalis Unity Game Banner" width="850"/>
+  </a>
 </p>
 
 ### Here are some of the different languages I have experience in:
