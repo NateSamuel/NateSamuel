@@ -1,9 +1,9 @@
-## Hi there, I'm Nate, a recent degree finisher in Computer Science at University of London!
+## Hi there, I'm Nate, a recent degree finisher in Computer Science at University of London.
 
 ### Here are some of the different languages I have experience in:
 Python, Django, JS, C#, React, Unity, C++, MySQL, PostgreSQL, Node.js
 
-### Please take a look at my pinned projects below!
+### Please take a look at my pinned projects below:
 
 <!--
 **NateSamuel/NateSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
