@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./Images/Banner.png" alt="Banner" width="850"/>
+</p>
 
 ### Here are some of the different languages I have experience in:
 Python, Django, JS, C#, React, Unity, C++, MySQL, PostgreSQL, Node.js
