@@ -1,26 +1,7 @@
 ## Hi there, I'm Nate, a recent degree finisher in Computer Science at University of London!
 
 ### Here are some of the different languages I have experience in:
-Python
-
-Django
-
-JS
-
-C#
-
-React
-
-Unity
-
-C++
-
-MySQL
-
-PostgreSQL
-
-Node.js
-
+Python, Django, JS, C#, React, Unity, C++, MySQL, PostgreSQL, Node.js
 
 ### Please take a look at my pinned projects below!
 
