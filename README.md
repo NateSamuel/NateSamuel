@@ -6,42 +6,18 @@
 
 <div align="center">
 
-  <p>
-    <span style="display:inline-block; background-color:#e0f0ff; border:1px solid #b0d4ff; border-radius:6px; padding:4px 8px; margin:4px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25"/> Python
-    </span>
-    <span style="display:inline-block; background-color:#e0f0ff; border:1px solid #b0d4ff; border-radius:6px; padding:4px 8px; margin:4px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="25"/> Django
-    </span>
-    <span style="display:inline-block; background-color:#e0f0ff; border:1px solid #b0d4ff; border-radius:6px; padding:4px 8px; margin:4px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25"/> JavaScript
-    </span>
-    <span style="display:inline-block; background-color:#e0f0ff; border:1px solid #b0d4ff; border-radius:6px; padding:4px 8px; margin:4px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="25"/> C#
-    </span>
-    <span style="display:inline-block; background-color:#e0f0ff; border:1px solid #b0d4ff; border-radius:6px; padding:4px 8px; margin:4px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="25"/> C++
-    </span>
-    <span style="display:inline-block; background-color:#e0f0ff; border:1px solid #b0d4ff; border-radius:6px; padding:4px 8px; margin:4px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="25"/> Unity
-    </span>
-    <span style="display:inline-block; background-color:#e0f0ff; border:1px solid #b0d4ff; border-radius:6px; padding:4px 8px; margin:4px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="25"/> React
-    </span>
-    <span style="display:inline-block; background-color:#e0f0ff; border:1px solid #b0d4ff; border-radius:6px; padding:4px 8px; margin:4px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="25"/> MySQL
-    </span>
-    <span style="display:inline-block; background-color:#e0f0ff; border:1px solid #b0d4ff; border-radius:6px; padding:4px 8px; margin:4px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="25"/> PostgreSQL
-    </span>
-    <span style="display:inline-block; background-color:#e0f0ff; border:1px solid #b0d4ff; border-radius:6px; padding:4px 8px; margin:4px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="25"/> Node.js
-    </span>
-  </p>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 </div>
-
-Python, Django, JS, C#, React, Unity, C++, MySQL, PostgreSQL, Node.js
 
 ### Please take a look at some of my projects below and let me know if you are interested in collaborating. 
 LinkedIn: [in/nate-bentley-6251061a2](https://www.linkedin.com/in/nate-bentley-6251061a2/)
