@@ -1,4 +1,23 @@
-
+<p align="center">
+  <a href="https://github.com/NateSamuel">
+    <img src="./Images/CPlusPlusProjects.png" alt="C Plus Plus Projects Banner" width="850"/>
+  </a>
+</p>
+<h4 align="center">
+  <a href="https://github.com/NateSamuel">
+    - Currency Visualization App
+  </a>
+</h4>
+<h4 align="center">
+  <a href="https://github.com/NateSamuel">
+    - JUCE DJ App
+  </a>
+</h4>
+<h4 align="center">
+  <a href="https://github.com/NateSamuel">
+    - Postfix++ App
+  </a>
+</h4>
 
 <p align="center">
   <a href="https://github.com/NateSamuel/Data_Analysis_Disasters_20th_Century">
