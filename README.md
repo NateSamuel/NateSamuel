@@ -4,18 +4,14 @@
   </a>
 </p>
 <h4 align="center">
-  <a href="https://github.com/NateSamuel">
-    - Currency Visualization App
+  <a href="https://github.com/NateSamuel/Stock_Vis_App_CPlusPlus">
+    - Currency Visualization App - |
   </a>
-</h4>
-<h4 align="center">
-  <a href="https://github.com/NateSamuel">
-    - JUCE DJ App
+  <a href="https://github.com/NateSamuel/Tron_Styled_DJ_App">
+    | - JUCE DJ App - |
   </a>
-</h4>
-<h4 align="center">
-  <a href="https://github.com/NateSamuel">
-    - Postfix++ App
+  <a href="https://github.com/NateSamuel/PostfixPlusPlus">
+    | - Postfix++ App -
   </a>
 </h4>
 
