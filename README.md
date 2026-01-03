@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/NateSamuel">
+  <a href="https://github.com/NateSamuel/Stock_Vis_App_CPlusPlus">
     <img src="./Images/CPlusPlusProjects.png" alt="C Plus Plus Projects Banner" width="850"/>
   </a>
 </p>
@@ -23,6 +23,11 @@
 <p align="center">
   <a href="https://github.com/NateSamuel/Learningweb_Website">
     <img src="./Images/WebApp.png" alt="Web App Banner" width="850"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/NateSamuel/PyBullet-AI-Robot-Simulation">
+    <img src="./Images/PybulletAI.png" alt="PybulletAI Banner" width="850"/>
   </a>
 </p>
 <p align="center">
